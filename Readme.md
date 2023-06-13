@@ -1,1 +1,1 @@
-This is a JS code example.
+Look! This is a JS code example.
